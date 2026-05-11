@@ -108,13 +108,7 @@ Preview the production build locally.
 
 ---
 
-## Screenshots 📸
 
-Add screenshots of your project here.
-
-```md
-![Dashboard](./screenshots/dashboard.png)
-```
 
 ---
 

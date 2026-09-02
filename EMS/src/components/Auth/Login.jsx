@@ -40,7 +40,7 @@ const Login = ({handleLogin}) => {
             }}
             className='w-full text-white bg-transparent border border-emerald-600 rounded-full px-5 py-3 outline-none focus:ring-2 focus:ring-emerald-500 placeholder-gray-400'
             type="email" 
-            placeholder='Enter your email' 
+            placeholder='Enter your email please' 
           />
 
           <input required
